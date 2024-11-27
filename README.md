@@ -7,4 +7,4 @@ MySQL connector for Java (JAR file)
 
 JavaBeans Activation Framework (JAF) and JavaMail libraries for email functionality
 
-(I haven't included these libraries in the repo).
+(I haven't included these libraries in the repo)
